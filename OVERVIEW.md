@@ -35,6 +35,7 @@ See `src/script.js` for the main game logic. All functions are commented for cla
 A playable Tic Tac Toe game in your browser. The board and UI update as you play, and new levels unlock as you win.
 
 ## 6. AI Prompt Journal
+Unfortunately i used Github copitot and id does not store the peevious chat logs unless you download them 
 _Example:_
 Prompt: “How do I generate a dynamic grid in JavaScript that goes with level dificulties eg 3by 3 grid for the first one as it grown as long are the payer has 5 concecutive wins he can be abe to unlock level dificulties easyy medium and hard?”
 AI helped me scaffold the board rendering and win logic for different grid sizes.
